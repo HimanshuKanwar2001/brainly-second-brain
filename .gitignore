@@ -1,4 +1,5 @@
 /backend-gpt/node_modules*
 /backend-gpt/.env*
+/backend-gpt/dist*
 
 */.env
